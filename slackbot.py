@@ -4,7 +4,7 @@ import time
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
 
-SLACK_BOT_TOKEN = "xoxb-5114084694709-5110442676198-WKP4EfRUo0Jcb1wdkXZagpkd"
+SLACK_BOT_TOKEN = ""
 CHANNEL_ID = "C053F0X63M0"
 MESSAGE = "30분이 지났습니다. 목과 허리를 곧게 펴고 스트레칭하세요."
 
